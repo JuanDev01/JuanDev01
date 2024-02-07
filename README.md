@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandev01" alt="juandev01" /></a> </p>
 
-- 🌱 I’m currently learning **React & Vue**
+- 🌱 I’m currently learning **Angular & Vue**
 
 - 👨‍💻 All of my projects are available at [https://juandev.netlify.app/](https://juandev.netlify.app/)
 
-- 💬 Ask me about **HTML/CSS, Js**
+- 💬 Ask me about **HTML/CSS, Js & React**
 
 - 📫 How to reach me **juandeveloper03@gmail.com**
 
