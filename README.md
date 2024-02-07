@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://juandev.netlify.app/](https://juandev.netlify.app/)
 
-- 💬 Ask me about **HTML/CSS, Js & React**
+- 💬 Ask me about **HTML/CSS, Js, Node.js & React**
 
 - 📫 How to reach me **juandeveloper03@gmail.com**
 
