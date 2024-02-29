@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Canez</h1>
-<h3 align="center">A passionate front-end developer from Mexico</h3>
+<h3 align="center">A passionate front-end developer born in Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandev01&label=Profile%20views&color=0e75b6&style=flat" alt="juandev01" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **juandeveloper03@gmail.com**
 
-- ⚡ Fun fact **I love playing with my nephews**
+- ⚡ Fun fact **I love traveling, meeting new people, spending time with my family and friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
